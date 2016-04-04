@@ -1,0 +1,14 @@
+layout_spectrum: 0.7851747
+typography_spectrum: 0.2692246
+color:
+  saturation: 0.4611505
+  lightness: 0.808401
+  brandStrength: 0.2656891
+  rhythmicContrast: 0.110439
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: 'Unotest '
